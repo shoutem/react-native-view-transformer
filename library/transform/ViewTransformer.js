@@ -1,7 +1,7 @@
 'use strict';
 
 import React, { Component } from 'react';
-import {
+import ReactNative, {
   View,
   Animated,
   Easing,
