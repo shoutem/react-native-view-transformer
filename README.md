@@ -8,7 +8,7 @@
 
 ## Install
 
-`npm install --save shoutem/react-native-view-transformer`
+`npm install --save react-native-view-transformer`
 
 ## Usage
 
